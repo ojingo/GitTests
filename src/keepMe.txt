@@ -1,3 +1,5 @@
 keep this file! from MASTER branch.
 
 THIS ONE TOO _ I LEFT SOEM BUGGY CAPITAL SHIT IN HERE!  BUT YOU WON"T FIGURE THIS OUT HERE _ YOU NEED TO BRANCH AND TWEAK FIRST>
+
+this is ok code here too - no reason to remove it!

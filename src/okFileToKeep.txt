@@ -1,0 +1,3 @@
+a new file added later thats ok to keep!
+
+it will need some modifying in the branch later that you will keep.
