@@ -2,4 +2,6 @@ a new file
 
 with good code here
 
-AND BAD CODE HERE!!
+I tried to fix this too!
+
+BUT I MADE MORE BAD CODE!  I better accept the master branch version instead!
