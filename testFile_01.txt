@@ -3,3 +3,6 @@ a test file
 Now Im back to a clear clean state - no merged text nothing to read here.
 
 This file is from the MASTER branch and has not been touched yet.
+
+Now im adding bad info.. this IS BUGGY INFO BAD SHIT.
+THIS NEEDS TO BE REMOVED AT SOME POINT IN THE FUTURE!!
