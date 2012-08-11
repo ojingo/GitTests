@@ -1,3 +1,6 @@
 a test file
 
+<<<<<<< HEAD
+=======
 now this part is going to need to merge!
+>>>>>>> A-reverted-Brach
