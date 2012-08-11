@@ -1,0 +1,11 @@
+a new file
+
+with good code here
+
+<<<<<<< HEAD
+fixed another bug while someone in another branch!
+=======
+I tried to fix this too!
+
+BUT I MADE MORE BAD CODE!  I better accept the master branch version instead!
+>>>>>>> Trying-to-add-a-feature

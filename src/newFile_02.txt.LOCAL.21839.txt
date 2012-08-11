@@ -1,0 +1,5 @@
+a new file
+
+with good code here
+
+fixed another bug while someone in another branch!
