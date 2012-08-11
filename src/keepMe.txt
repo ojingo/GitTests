@@ -3,3 +3,7 @@ keep this file! from MASTER branch.
 now I found the offensive code and removed it! this is good code from the BRANCH!
 
 this is ok code here too - no reason to remove it! this is good code here too!
+
+lets add some more bad code!
+
+ok someone fixed the bad code while Im still in the branch!  oh no!
