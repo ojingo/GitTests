@@ -1,5 +1,5 @@
 another file added when adding a new feature
 
-and heres where I make a CONFLICT!  IM FIXING THE BUG TOO!
+wow found the bug and fixed it here.and heres where I make a CONFLICT!  IM FIXING THE BUG TOO!
 
 WHAT DO WE DO?  TAKE ME? OR TAKE YOU?

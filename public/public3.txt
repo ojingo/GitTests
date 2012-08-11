@@ -1,3 +1,5 @@
 another file added while in a branch!
 
 wow this is getting heavy in the changes
+
+fixed something else here to avoid that bug in the future
