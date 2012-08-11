@@ -1,3 +1,7 @@
 a new file added later thats ok to keep!
 
 it will need some modifying in the branch later that you will keep.
+
+more bad code fixed!  now the code is working shiny new
+
+all while someone else was in a branch!
